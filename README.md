@@ -1,2 +1,3 @@
 # cyber-defence-journey
-Documenting my journey to becoming a SOC Analyst — labs, notes, tools, and practical experience.
+Kazeem Adeniran - SOC Analyst in Training
+TryHackMe SOC Level1 Completed Nov 2025
